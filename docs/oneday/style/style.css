@@ -68,7 +68,7 @@ h3 {
 	}
 .nospace {
    font-size: 0;
-   width: ;
+   width: 100%;
    display:block;
 }
 @media screen and (max-width: 992px) {
@@ -77,6 +77,11 @@ h3 {
 	float: left; 
 	width: 100%;
 	}
+	.nospace {
+   font-size: 0;
+   width: 100%;
+   display:block;
+}
 }
 @media screen and (max-width: 600px) {
 	.text-right {
@@ -92,6 +97,11 @@ h3 {
 	.film {
 	width: 100%; 
 	}
+	.nospace {
+   font-size: 0;
+   width: 100%;
+   display:block;
+}
 .green {
 		background-color: #179f99;
 		width: 100%;
