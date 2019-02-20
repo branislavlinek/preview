@@ -48,7 +48,7 @@ h3 {
 		display:block;
 		}
 .text-white {
-	padding: 40px; 
+	padding: 0px; 
 	display:block;
 	color:#ffffff;
 	display:block;
@@ -77,6 +77,21 @@ h3 {
 	float: left; 
 	width: 100%;
 	}
+	.green {
+		background-color: #179f99;
+		width: 100%;
+		display:block;
+		}
+.orange {
+		background-color: #ff7e00;
+		width: 100%;
+		display:block;
+		}
+.grey {
+		background-color: #3c3c3c;
+		width: 100%;
+		display:block;
+		}
 }
 @media screen and (max-width: 600px) {
 	.text-right {
