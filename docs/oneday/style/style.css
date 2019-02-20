@@ -92,4 +92,19 @@ h3 {
 	.film {
 	width: 100%; 
 	}
+.green {
+		background-color: #179f99;
+		width: 100%;
+		display:block;
+		}
+.orange {
+		background-color: #ff7e00;
+		width: 100%;
+		display:block;
+		}
+.grey {
+		background-color: #3c3c3c;
+		width: 100%;
+		display:block;
+		}
 }
