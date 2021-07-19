@@ -3563,10 +3563,12 @@ body {
   overflow: hidden;
 }
 .cid-sD9gdnsGBv .card-title DIV {
-  text-align: center;
+  text-align: left;
 }
 .cid-sD9gdnsGBv .card-title {
   color: #55884c;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .cid-sD9gdnsGBv P {
   text-align: justify;
