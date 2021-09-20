@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Artemico ",
-    "currentPage": "index_de.html",
+    "currentPage": "uber_uns.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2702,6 +2702,9 @@
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff",
               "text-align": "justify"
+            },
+            ".display-5": {
+              "font-size": "1.3rem"
             }
           },
           "_name": "header16",
@@ -3266,6 +3269,9 @@
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff",
               "text-align": "justify"
+            },
+            ".display-5": {
+              "font-size": "1.3rem"
             }
           },
           "_name": "header16",
@@ -3823,6 +3829,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "justify"
+            },
+            ".display-5": {
+              "font-size": "1.3rem"
             }
           },
           "_name": "header2",
