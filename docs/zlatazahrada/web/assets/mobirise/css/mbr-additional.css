@@ -1824,7 +1824,7 @@ body {
   background-image: url("../../../assets/images/legi-kastely-2000x1000.jpg");
 }
 .cid-sXGTJm6MH1 {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1872,9 +1872,102 @@ body {
     width: 100% !important;
   }
 }
+.cid-t0xREwMDaW {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #e1dcca;
+}
+.cid-t0xREwMDaW .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-t0xREwMDaW .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-t0xREwMDaW .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-t0xREwMDaW .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-t0xZeXrDRY {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #767676;
+}
+.cid-t0xZeXrDRY .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-t0xZeXrDRY .section-text {
+  padding: 2rem 0;
+  text-align: left;
+  color: #ffffff;
+}
+.cid-t0xZeXrDRY .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-t0xZeXrDRY .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-t0Bw3nb5DX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-t0Bw3nb5DX h2 {
+  margin-bottom: 0;
+}
+.cid-t0Bw3nb5DX h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-t0Bw3nb5DX p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-t0Bw3nb5DX .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-t0Bw3nb5DX .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-t0Bw3nb5DX .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (max-width: 767px) {
+  .cid-t0Bw3nb5DX .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-t0Bw3nb5DX .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-t0Bw3nb5DX H2 {
+  color: #b1a374;
+}
 .cid-sXGRUmUidU .main_wrapper {
   position: relative;
-  height: 29rem;
+  height: 37rem;
   width: 100%;
   background-color: #c0c0c0;
 }
